@@ -23,3 +23,5 @@ def solve():
 
 for _ in range(T):
     solve()
+
+# gitの勉強用に変更
