@@ -15,4 +15,8 @@ for i in range(29, -1, -1):
     if not uf.same(0, N - 1):
         ans |= (1 << i)
 
+
+# gitの勉強用に変更
+
+
 print(ans)
